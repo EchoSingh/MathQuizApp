@@ -61,7 +61,6 @@ Below are screenshots of the app showcasing its features:
 3. **Results Screen**  
    ![Results Screen](screenshots/results_screen.png)  
 
-(*Ensure the `screenshots` directory is included in the project root with these images.*)
 
 ========================================
           Getting Started 🚀
