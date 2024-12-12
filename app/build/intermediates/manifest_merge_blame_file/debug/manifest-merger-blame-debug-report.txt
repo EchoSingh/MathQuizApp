@@ -1,0 +1,117 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mathquiz"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.mathquiz.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.mathquiz.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:5:5-39:19
+18        android:allowBackup="true"
+18-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:8:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.MathQuiz" >
+28-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:13:9-46
+29        <activity
+29-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:15:9-17:40
+30            android:name="com.example.mathquiz.DivisionActivity"
+30-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:16:13-45
+31            android:exported="false" />
+31-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:17:13-37
+32        <activity
+32-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:18:9-20:40
+33            android:name="com.example.mathquiz.MultiplicationActivity"
+33-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:19:13-51
+34            android:exported="false" />
+34-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:20:13-37
+35        <activity
+35-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:21:9-23:40
+36            android:name="com.example.mathquiz.SubstractionActivity"
+36-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:22:13-49
+37            android:exported="false" />
+37-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:23:13-37
+38        <activity
+38-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:24:9-26:40
+39            android:name="com.example.mathquiz.AdditionActivity"
+39-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:25:13-45
+40            android:exported="false" />
+40-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:26:13-37
+41        <activity
+41-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:27:9-29:40
+42            android:name="com.example.mathquiz.SecondActivity"
+42-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:28:13-43
+43            android:exported="false" />
+43-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:29:13-37
+44        <activity
+44-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:30:9-38:20
+45            android:name="com.example.mathquiz.MainActivity"
+45-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:31:13-41
+46            android:exported="true" >
+46-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:32:13-36
+47            <intent-filter>
+47-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:33:9-37:25
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:34:13-65
+48-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:34:21-62
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:36:13-73
+50-->C:\Users\adity\AndroidStudioProjects\MathQuizApp\app\src\main\AndroidManifest.xml:36:23-70
+51            </intent-filter>
+52        </activity>
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+56            android:authorities="com.example.mathquiz.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\adity\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\adity\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\adity\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>

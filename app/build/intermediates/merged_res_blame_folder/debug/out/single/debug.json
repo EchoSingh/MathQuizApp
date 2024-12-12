@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\layout_multiplication_activity.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\layout\\multiplication_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mathquiz.app-merged_res-29:/drawable-v24_logo.png.flat",
+        "source": "com.example.mathquiz.app-main-31:/drawable-v24/logo.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\layout_substraction_activity.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\layout\\substraction_activity.xml"
+    },
+    {
+        "merged": "com.example.mathquiz.app-merged_res-29:/drawable-v24_secondo.png.flat",
+        "source": "com.example.mathquiz.app-main-31:/drawable-v24/secondo.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\layout_addition_activity.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\layout\\addition_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\layout_second_activity.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\layout\\second_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\layout_division_activity.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\layout\\division_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\drawable-v24_logo.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\drawable-v24\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mathquiz.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.mathquiz.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\7.3.3\\com.example.mathquiz.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
