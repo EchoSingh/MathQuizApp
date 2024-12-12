@@ -98,10 +98,4 @@ We welcome contributions to improve MathQuizApp! Follow these steps:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-========================================
-          Contact 💬
-========================================
 
-For feedback or questions, feel free to open an issue on GitHub .
-
-Happy learning and coding! 🚀
