@@ -42,4 +42,4 @@ Welcome to MathQuizApp! A fun and interactive way to learn math with quizzes on 
 ---
 
 ## 📜 License  
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
